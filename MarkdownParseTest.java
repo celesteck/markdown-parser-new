@@ -14,6 +14,7 @@ public class MarkdownParseTest {
         assertEquals(2, 1 + 1);
     }
 
+    /*
     @Test
     public void getLinksTest() throws Exception{
         Path fileName = Path.of("./test-file.md");
@@ -86,6 +87,7 @@ public class MarkdownParseTest {
         assertEquals( "https://something.com",  result.get(0));
         assertEquals("some-thing.html", result.get(1));
     }
+    */
 }
 
 
